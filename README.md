@@ -10,6 +10,6 @@ Layered Experience: I didn't just stop at "playing music." I designed a system a
 Privacy by Design: I made sure the logic focuses on behavioral patterns, not personal content, keeping the user’s privacy at the center.
 
 # My Roadmap
-Right now, I have finalized the full technical architecture and research report (you can find the PDF here). I am currently deep-diving into Python (TensorFlow & MNE) and Flutter to transform this research from a paper-based design into a living, breathing prototype.
+Right now, I have finalized the full technical architecture and research report. I am currently deep-diving into Python (TensorFlow & MNE) and Flutter to transform this research from a paper-based design into a living, breathing prototype.
 
 © 2026 Sıla Ezgi Çelebi. All rights reserved. This project represents my original research and technical design.
